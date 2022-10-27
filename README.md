@@ -17,4 +17,6 @@ Projeto Aplicado I é uma componente curricular da Universidade Presbiteriana Ma
 2. Analisar e tratar dados ausentes e nulos, assim como outliers presentes nos Datasets;
 3. Estudar e aplicar métidas estatísticas nos Dataset de Consumo de Energia Elétrica;
 
-O desenvolvimento desse trabalho será realizado utilizando a liguagem de programação *Python*, atráves do ambiente interativo e colaborativo do *Google Colaboratory*. Os *Notebooks Python* 
+O desenvolvimento desse trabalho será realizado utilizando a liguagem de programação *Python*, atráves do ambiente interativo e colaborativo do *Google Colaboratory*. Abaixo link de acesso ao *Notebook Python*:
+
+https://colab.research.google.com/drive/1jeM-_C1lz5moqWEQiq7jmMhncRdRADa5?usp=sharing
