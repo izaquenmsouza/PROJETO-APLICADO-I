@@ -8,6 +8,8 @@ Projeto Aplicado I é uma componente curricular da Universidade Presbiteriana Ma
 
 **TEMA PROPOSTO**: Consumo de Energia Elétrica Brasileiro
 
+**ACADÊMICO**: Izaque Nazareno de Melo Souza | TIA 22003428
+
 **OBJETIVO GERAL**: Analisar o Consumo de Energia Elétrica entre regiões Geográficas, verificando as regiões com maiores crescimento do consumo ao longo dos anos.
 
 **OBJETIVOS ESPECÍFICOS**:
