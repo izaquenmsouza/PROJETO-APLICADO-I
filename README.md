@@ -22,6 +22,6 @@ O desenvolvimento desse trabalho será realizado utilizando a liguagem de progra
 
 https://colab.research.google.com/drive/1jeM-_C1lz5moqWEQiq7jmMhncRdRADa5?usp=sharing
 
-**OBSERVAÇÃO** link de acesso para apresentação
+**OBSERVAÇÃO** -  link de acesso para apresentação:
 
 https://youtu.be/3LEOB8UgDLI
